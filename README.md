@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Aldi and I'm from Indonesia 🇮🇩 🇮🇩 🇮🇩
+
+I'm a network engineer and a programmer
+
 <!--
 **merdekaid/merdekaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
